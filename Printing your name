@@ -1,0 +1,2 @@
+Ragu=eval(input("ENTER YOUR GOOD NAME"))
+PRINT(RAGU)
